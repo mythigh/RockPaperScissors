@@ -1,6 +1,9 @@
 from random import *
 import time
 # my code
+# i changed the images
+# fdghj
+# fdghj
 class main():
 
     # selecting a button runs the function and inputs a choice
